@@ -1,0 +1,8 @@
+{
+	"model_file": "./multi_label_classification.dlc",
+	"input_files": "./test_img",
+	"image_width": 448,
+	"image_height": 448,
+	"output_node": "outPutNode",
+	"use_quant": false
+}
