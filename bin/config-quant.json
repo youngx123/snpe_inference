@@ -1,0 +1,8 @@
+{
+	"model_file": "./keypoint_mobileone05kopset9decode-qaunt.dlc",
+	"input_file": "./test_img",
+	"image_width": 256,
+	"image_height": 256,
+	"output_node": "207",
+	"use_quant": 2
+}

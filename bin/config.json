@@ -1,8 +1,8 @@
 {
-	"model_file": "./multi_label_classification.dlc",
-	"input_files": "./test_img",
-	"image_width": 448,
-	"image_height": 448,
-	"output_node": "outPutNode",
-	"use_quant": false
+	"model_file": "./keypoint_mobileone05kopset9decode.dlc",
+	"input_file": "./test_img",
+	"image_width": 256,
+	"image_height": 256,
+	"output_node": "207",
+	"use_quant": -1
 }
